@@ -1,5 +1,4 @@
-CU Boulder MSDS course work<br>
-DTSA 5510 Unsupervised Algorithms in Machine Learning<br>
+CU Boulder MSDS DTSA 5510 Unsupervised Algorithms in ML<br>
 
 # BBC News Classification
 
